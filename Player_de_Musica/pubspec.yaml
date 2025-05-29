@@ -36,6 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   foundation: ^0.0.5
   just_audio: ^0.10.3
+  just_audio_background: ^0.0.1-beta.11 # Ou a versão mais recente disponível
+  audio_service: ^0.18.12 # Ou a versão mais recente disponível
   http: ^1.4.0
   
 
