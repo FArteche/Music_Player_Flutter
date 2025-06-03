@@ -2,7 +2,8 @@
 
 ## Sobre
 
-Criado por [Francisco Arteche](https://github.com/FArteche) e [Jean Luca Cariolato](https://github.com/jeancariolato)**Music_Player_Flutter** é um aplicativo desenvolvido em Flutter para reprodução de músicas.
+Criado por [Francisco Arteche](https://github.com/FArteche) e [Jean Luca Cariolato](https://github.com/jeancariolato)
+**Music_Player_Flutter** é um aplicativo desenvolvido em Flutter para reprodução de músicas.
 
 ## Funcionalidades
 
