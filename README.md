@@ -14,7 +14,6 @@ Criado por [Francisco Arteche](https://github.com/FArteche) e [Jean Luca Cariola
 ## Estrutura do Projeto
 
 - `lib/` — Código fonte principal do aplicativo.
-- `assets/` — Arquivos de áudio e imagens.
 - `pubspec.yaml` — Configuração de dependências.
 
 ## Dependências Principais
